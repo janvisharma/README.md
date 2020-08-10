@@ -5,7 +5,7 @@
 <a href="janvi@connect.hku.hk">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<br />
+<br /> <br/>
  <img align="left" height="210" width="210" alt="GIF" src="https://media.giphy.com/media/37mOoBDsOjKdFGqXaZ/giphy.gif" /> 
  <p>
 My name is Janvi Sharma 😊 & I am a junior at The University of Hong Kong 🇭🇰 majoring in Computer Science Engineering 🖥️. <br/ >
