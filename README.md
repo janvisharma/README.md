@@ -10,7 +10,7 @@
  <p>
 My name is Janvi Sharma 😊 & I am a junior at The University of Hong Kong 🇭🇰 majoring in Computer Science Engineering 🖥️. <br/ >
 🔍 I am interested in Optimization problems and Algorithm design and analysis📝! <br/>
-📚 I enjoy reading historical fiction, fantasy and thriller novels, currently reading: War and Peace by Leo Tolstoy<br/>
+📚 I enjoy reading historical fiction, fantasy and thriller novels, currently reading: The Secret of the Nagas by Amish<br/>
 🎼 I love listening to old rock hits, my fav bands are: Green Day, Queen, Oasis, the list goes on...<br/>
 🏃 I like running, my goal for this year is to run my first 10k 👟💨 <br/>
 📩 Reach out to me via LinkedIn or drop me an email and I would be happy to respond!
