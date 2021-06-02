@@ -8,7 +8,7 @@
 <br /> <br/>
  <img align="left" height="210" width="210" alt="GIF" src="https://media.giphy.com/media/37mOoBDsOjKdFGqXaZ/giphy.gif" /> 
  <p>
-My name is Janvi Sharma 😊 & I am a junior at The University of Hong Kong 🇭🇰 majoring in Computer Science Engineering 🖥️. <br/ >
+My name is Janvi Sharma 😊 & I am a senior at The University of Hong Kong 🇭🇰 majoring in Computer Science Engineering 🖥️. <br/ >
 🔍 I am interested in Optimization problems and Algorithm design and analysis📝! <br/>
 📚 I enjoy reading historical fiction, fantasy and thriller novels, currently reading: Flowers for Algernon by Daniel Keyes<br/>
 🎼 I love listening to old rock hits, my fav bands are: Green Day, Queen, Oasis, the list goes on...<br/>
